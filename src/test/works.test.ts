@@ -1,6 +1,6 @@
-import assert from 'node:assert';
-import { it } from 'node:test';
+import assert from 'node:assert'
+import { it } from 'node:test'
 
 it('works', () => {
-  assert.equal(1, 1);
-});
+  assert.equal(1, 1)
+})
